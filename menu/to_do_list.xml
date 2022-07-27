@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="local.hal.st32.android.ohs30132.todo.ToDoListActivity" >
+
+    <item
+        android:id="@+id/titleMenu"
+        android:showAsAction="withText|ifRoom"
+        android:title="@string/menu_now">
+        <menu>
+            <item
+                android:id="@+id/menuMikan"
+                android:showAsAction="never"
+                android:title="@string/menu_mikan"/>
+            <item
+                android:id="@+id/menuKanryou"
+                android:showAsAction="never"
+                android:title="@string/menu_kanryou"/>
+            <item
+                android:id="@+id/menuAll"
+                android:showAsAction="never"
+                android:title="@string/menu_all"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/newFile"
+        android:showAsAction="withText|ifRoom"
+        android:title="@string/btn_new"/>
+
+</menu>

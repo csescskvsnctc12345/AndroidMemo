@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToDo</string>
+    <string name="action_settings">Settings</string>
+    <!-- リスト画面用 -->
+    <string name="tv_title_list">全タスク</string>
+    <string name="btn_new">新規</string>
+    <!-- 編集画面用 -->
+    <string name="tv_title_edit">タスク情報編集</string>
+    <string name="tv_title_insert">タスク情報登録</string>
+    <string name="name">タスク名:</string>
+    <string name="date">期限:</string>
+    <string name="note">詳細:</string>
+    <string name="btn_save">更新</string>
+    <string name="btn_insert">登録</string>
+    <string name="btn_date_picker_dialog">変更</string>
+    <string name="btn_back">戻る</string>
+    <string name="btn_delete">削除</string>
+    <string name="menu_mikan">未完のタスクのみ</string>
+    <string name="menu_kanryou">完了のタスクのみ</string>
+    <string name="menu_all">全タスク</string>
+    <string name="menu_now"></string>
+    <string name="msg_input_title">タスク名名を入力してください。</string>
+    <!-- ContextMenu用 -->
+    <string name="menu_context_headertitle">アクションを選択</string>
+    <string name="menu_context_kanryou">完了に変更</string>
+    <string name="menu_context_mikan">未完了に変更</string>
+    <string name="menu_context_etc">その他</string>
+</resources>

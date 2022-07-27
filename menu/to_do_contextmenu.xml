@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="local.hal.st32.android.ohs30132.todo.ToDoListActivity" >
+    <!-- ContextMenu用 -->
+    <item
+        android:id="@+id/menuContextKanryou"
+        android:title="@string/menu_context_kanryou"/>
+    <item
+        android:id="@+id/menuContextMikan"
+        android:title="@string/menu_context_mikan"/>
+    <item
+        android:id="@+id/menuContextEtc"
+        android:title="@string/menu_context_etc"/>
+
+</menu>
