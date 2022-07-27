@@ -18,7 +18,7 @@ import android.widget.TextView;
  *
  * データベース上のデータを処理するクラス。
  *
- * @author ohs30132
+ * @author
  */
 public class DataAccess {
 
